@@ -15,8 +15,8 @@ Solutions to array-based problems.
 
 - **[Problem 1: Two Sum](https://leetcode.com/problems/two-sum/)**
     - Difficulty: Easy
-    - [Guide](./Array/1.two-sum/guide.js)
-    - [Solution](./Array/1.two-sum/solution.md)
+    - [Guide](./Arrays/1.two-sum/guide.js)
+    - [Solution](./Arrays/1.two-sum/solution.md)
 
 
 ## How to Contribute
