@@ -1,8 +1,9 @@
 
 //todas las combinaciones posibles:
 
-function generateCombinations(nums) {
+
     const result = []; // Aquí guardaremos todas las combinaciones
+    nums = [1, 2, 3];
 
     function backtrack(start, arr) {
         if (arr.length > 0) {
@@ -17,10 +18,10 @@ function generateCombinations(nums) {
     }
 
     backtrack(0, []); // Iniciar el proceso
-    return result;
-}
+    console.log(result) ;
 
-// Ejemplo de uso:
-console.log(generateCombinations([1, 2, 3]));
+
+
+
 
 
